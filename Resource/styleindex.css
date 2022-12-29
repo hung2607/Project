@@ -1,0 +1,14 @@
+body{
+    background-color: #CCC;
+}
+
+.flowername{
+    text-align: center;
+}
+
+.price{
+    text-align: center;
+    color: #e91e63;
+    font-size: 25px;
+    font-weight: bold ;
+}
